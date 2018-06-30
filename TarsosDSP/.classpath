@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/android"/>
+	<classpathentry kind="src" path="src/core"/>
+	<classpathentry kind="src" path="src/examples"/>
+	<classpathentry kind="src" path="src/experimental"/>
+	<classpathentry kind="src" path="src/jvm"/>
+	<classpathentry kind="src" path="src/patcher"/>
+	<classpathentry kind="src" path="src/tests"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="lib/pdj.jar"/>
+	<classpathentry kind="lib" path="/home/donlab/Android/Sdk/platforms/android-22/android.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
